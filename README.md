@@ -10,16 +10,16 @@
     <img width="75" src="https://api.badgr.io/public/badges/kQBWBLydRGOq1148Kng3sw/image?type=png&fmt=wide" alt="JS">
   </a>
   <a href="" target="_blank">
-    <img width="75" src="hhttps://1000logos.net/wp-content/uploads/2020/08/MySQL-Logo.png" alt="MySQL">
+    <img width="75" src="https://1000logos.net/wp-content/uploads/2020/08/MySQL-Logo.png" alt="MySQL">
   </a>
   <a href="" target="_blank">
-    <img width="75" src="hhttps://1000logos.net/wp-content/uploads/2020/08/MySQL-Logo.png" alt="MySQL">
+    <img width="75" src="https://1000logos.net/wp-content/uploads/2020/08/MySQL-Logo.png" alt="MySQL">
   </a>
   <a href="" target="_blank">
-    <img width="75" src="hhttps://1000logos.net/wp-content/uploads/2020/08/MySQL-Logo.png" alt="MySQL">
+    <img width="75" src="https://1000logos.net/wp-content/uploads/2020/08/MySQL-Logo.png" alt="MySQL">
   </a>
   <a href="" target="_blank">
-    <img width="75" src="hhttps://1000logos.net/wp-content/uploads/2020/08/MySQL-Logo.png" alt="MySQL">
+    <img width="75" src="https://1000logos.net/wp-content/uploads/2020/08/MySQL-Logo.png" alt="MySQL">
   </a>
 </p>
 
