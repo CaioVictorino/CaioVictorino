@@ -10,4 +10,4 @@
   </a>
 </p>
 
-![Estatísticas do GitHub de Seu-Username](https://github-readme-stats.vercel.app/api?username=seu-username&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)
+![Estatísticas do GitHub de CaioVictorino](https://github-readme-stats.vercel.app/api?username=CaioVictorino&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)
