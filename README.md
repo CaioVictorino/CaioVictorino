@@ -64,7 +64,11 @@ p>
 ## 📫 Conecte-se comigo
 
 <p align="left">
-<a href="https://linkedin.com/in/seu-perfil-linkedin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Seu Perfil LinkedIn" height="30" width="40" /></a>
-<a href="mailto:seu.email@exemplo.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="Seu Email" height="30" width="40" /></a>
-<a href="https://seu-portfolio.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/link.svg" alt="Seu Portfolio" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/seu-perfil-linkedin" target="blank"><img align="center" src="https://raw.githubusercontent.com/caiovictorino/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Seu Perfil LinkedIn" height="30" width="40" /></a>
+<a href="mailto:https://www.linkedin.com/in/caiovictorinorj/" target="blank"><img align="center" src="https://raw.githubusercontent.com/caiovictorino/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="Seu Email" height="30" width="40" /></a>
+<a href="https://seu-portfolio.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/caiovictorino/github-profile-readme-generator/master/src/images/icons/Social/link.svg" alt="Seu Portfolio" height="30" width="40" /></a>
 </p>
+
+
+
+![Estatísticas do GitHub de CaioVictorino](https://github-readme-stats.vercel.app/api?username=CaioVictorino&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)
