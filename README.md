@@ -9,3 +9,5 @@
     <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">
   </a>
 </p>
+
+![Estatísticas do GitHub de Seu-Username](https://github-readme-stats.vercel.app/api?username=seu-username&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)
