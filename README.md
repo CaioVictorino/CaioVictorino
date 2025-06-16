@@ -1,3 +1,12 @@
+<head>
+    <style>
+        img{
+            max-width: 50px;
+            height: auto;
+        }
+    </style>
+</head>
+
 <p align="left" style="display: flex; flex-direction: column !important">
   <a href="#" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/HTML5_Badge.svg/2048px-HTML5_Badge.svg.png" alt="HTML">
