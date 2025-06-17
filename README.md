@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <a href="URL_DO_SEU_LINKEDIN" target="_blank">
+  <a href="https://www.linkedin.com/in/caiovictorinorj/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="mailto:devcvictorino@gmail.com" target="_blank">
@@ -16,9 +16,6 @@
   <a href="https://wa.me/5522997996806" target="_blank">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp">
   </a>
-  <a href="URL_DO_SEU_PORTFOLIO" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-333333?style=for-the-badge&logo=react&logoColor=white" alt="Portfolio">
-  </a>
 </p>
 
 ---
@@ -26,7 +23,7 @@
 ### Sobre Mim
 
 <p>
-  Desenvolvedor com [Número] anos de experiência na criação de soluções de software robustas e escaláveis. Meu foco principal é o desenvolvimento de aplicações back-end e APIs de alta performance, mas também possuo sólida experiência em tecnologias front-end para criar interfaces de usuário eficientes. Busco constantemente a excelência técnica e a aplicação de boas práticas para entregar produtos de qualidade.
+  Desenvolvedor com 5 anos de experiência na criação de soluções de software robustas e escaláveis. Meu foco principal é o desenvolvimento de aplicações back-end e APIs de alta performance, mas também possuo sólida experiência em tecnologias front-end para criar interfaces de usuário eficientes. Busco constantemente a excelência técnica e a aplicação de boas práticas para entregar produtos de qualidade.
   <br><br>
   📫 Você pode entrar em contato comigo pelo e-mail: <strong><a href="mailto:devcvictorino@gmail.com">devcvictorino@gmail.com</a></strong>
 </p>
