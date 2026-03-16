@@ -23,7 +23,7 @@
 ### Sobre Mim
 
 <p>
-  Desenvolvedor com 5 anos de experiência na criação de soluções de software robustas e escaláveis. Meu foco principal é o desenvolvimento de aplicações back-end e APIs de alta performance, mas também possuo sólida experiência em tecnologias front-end para criar interfaces de usuário eficientes. Busco constantemente a excelência técnica e a aplicação de boas práticas para entregar produtos de qualidade.
+  Desenvolvedor atuando desde de 2019 na criação de soluções de software robustas e escaláveis. Meu foco principal é o desenvolvimento de aplicações back-end e APIs de alta performance, mas também possuo sólida experiência em tecnologias front-end para criar interfaces de usuário eficientes. Busco constantemente a excelência técnica e a aplicação de boas práticas para entregar produtos de qualidade.
   <br><br>
   📫 Você pode entrar em contato comigo pelo e-mail: <strong><a href="mailto:devcvictorino@gmail.com">devcvictorino@gmail.com</a></strong>
 </p>
